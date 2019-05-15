@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ui_view">
+    <sys_ui_view action="INSERT_OR_UPDATE">
+        <group/>
+        <hidden>false</hidden>
+        <name>catalog_github</name>
+        <roles/>
+        <sys_class_name>sys_ui_view</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-05-15 16:17:11</sys_created_on>
+        <sys_id>ce3a9d7bdbd17300b620e9c9489619fd</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>github View</sys_name>
+        <sys_package display_value="GithubTest" source="x_68249_githubtest">723784ffdbdd3300b620e9c94896194c</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="GithubTest">723784ffdbdd3300b620e9c94896194c</sys_scope>
+        <sys_update_name>sys_ui_view_ce3a9d7bdbd17300b620e9c9489619fd</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-05-15 16:17:11</sys_updated_on>
+        <title>github View</title>
+        <user/>
+    </sys_ui_view>
+</record_update>
